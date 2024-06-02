@@ -1,0 +1,73 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'DispositifPIV.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{350bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.71428571)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{DispositifPIV.pdf}}%
+    \put(0.29943719,0.66081544){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Caméra vidéo\end{tabular}}}}%
+    \put(0.32515056,0.6211695){\color[rgb]{0.64313725,0.64313725,0.64313725}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$f_{\rm v} = 10~\rm Hz$\end{tabular}}}}%
+    \put(0.66978786,0.57592757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pousse-seringue\end{tabular}}}}%
+    \put(0.74980852,0.53489066){\color[rgb]{0.49803922,0.50196078,0.50196078}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$Q_{\rm a} =~\rm cst$\end{tabular}}}}%
+    \put(0.0244245,0.08758035){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Caméra rapide\end{tabular}}}}%
+    \put(0.07765034,0.04100778){\color[rgb]{0.50196078,0.50588235,0.50588235}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$f_{\rm CR} = 5~\rm kHz$\end{tabular}}}}%
+    \put(0.74164289,0.08891091){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Nappe LASER\end{tabular}}}}%
+    \put(0.68708636,0.04233843){\color[rgb]{0.49803922,0.50196078,0.50196078}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\lambda = 532~\rm nm$, $P=2~\rm W$\end{tabular}}}}%
+    \put(0.81748971,0.24193529){\color[rgb]{0.49803922,0.50196078,0.50196078}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Miroir\\rotatif\end{tabular}}}}%
+    \put(0.19853987,0.48505375){\color[rgb]{0.50196078,0.50588235,0.50588235}\rotatebox{17.386554}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$f_{\rm NL}=200~\rm Hz$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{DispositifPIV.pdf}}%
+    \put(0.4568645,0.12110942){\color[rgb]{0.45490196,0.45882353,0.45882353}\rotatebox{18.577486}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Panneau de LED\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{DispositifPIV.pdf}}%
+    \put(0.23250162,0.299123){\color[rgb]{0.8,0.8,0.8}\rotatebox{-23.880546}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$L = 400~\rm mm$\end{tabular}}}}}%
+    \put(0.49385389,0.21863739){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$h$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
