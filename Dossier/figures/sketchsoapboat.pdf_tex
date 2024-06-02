@@ -1,0 +1,83 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'sketchsoapboat.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{380bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.55263158)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.00469625,0.52277813){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$t = 0$ s :\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{sketchsoapboat.pdf}}%
+    \put(0.15929002,0.522469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l} mise en mouvement\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{sketchsoapboat.pdf}}%
+    \put(0.85855263,0.35526312){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{x}\end{tabular}}}}%
+    \put(0.39009841,0.33753074){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}flotteur\end{tabular}}}}%
+    \put(0.01721829,0.331877){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tensioactif\end{tabular}}}}%
+    \put(0.74013158,0.42434213){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}air\end{tabular}}}}%
+    \put(0.73293586,0.33449832){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eau\end{tabular}}}}%
+    \put(0.00099631,0.2734956){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$t > 0$ s :\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{sketchsoapboat.pdf}}%
+    \put(0.15559009,0.27318649){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l} décélération jusqu'à arrêt du bateau\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{sketchsoapboat.pdf}}%
+    \put(0.85942632,0.10855263){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{x}\end{tabular}}}}%
+    \put(0.74198183,0.17763166){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}air\end{tabular}}}}%
+    \put(0.73283314,0.09169416){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eau\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{sketchsoapboat.pdf}}%
+    \put(0.4690922,0.45048894){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{\rm max}$\end{tabular}}}}%
+    \put(0.1643103,0.44139491){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{\rm min}$\end{tabular}}}}%
+    \put(0.58618533,0.19489007){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{\rm max}$\end{tabular}}}}%
+    \put(0.30185153,0.19447889){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{\rm min}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{sketchsoapboat.pdf}}%
+    \put(0.08881582,0.02960526){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}dissolution\end{tabular}}}}%
+    \put(0.32881472,0.46035094){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{V}$\end{tabular}}}}%
+    \put(0.45600393,0.20346623){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{V}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{sketchsoapboat.pdf}}%
+  \end{picture}%
+\endgroup%
