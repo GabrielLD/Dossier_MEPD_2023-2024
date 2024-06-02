@@ -1,0 +1,82 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'schema_injection_visualisation.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{445.73327637bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.35589141)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(-0.00115926,0.3275298){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(a)\end{tabular}}}}%
+    \put(0.68741037,0.33299419){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(b)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{schema_injection_visualisation.pdf}}%
+    \put(0.42378861,0.30012209){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pousse-seringue\end{tabular}}}}%
+    \put(0.2488767,-0.00061799){\color[rgb]{0.50196078,0.50196078,0.50196078}\rotatebox{17.207986}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Panneau de led\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{schema_injection_visualisation.pdf}}%
+    \put(0.42623312,0.26797543){\color[rgb]{0.50196078,0.50196078,0.50196078}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$Q_{\rm a} = \rm cst$\end{tabular}}}}%
+    \put(0.23746179,0.04860052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$h$\end{tabular}}}}%
+    \put(0.06167039,0.10598094){\color[rgb]{0,0,0}\rotatebox{-23.785153}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$L = 400~\rm mm$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{schema_injection_visualisation.pdf}}%
+    \put(0.05773246,0.29387738){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}caméra\\$f=10~\rm Hz$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{schema_injection_visualisation.pdf}}%
+    \put(0.8321243,0.19351269){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_{\rm M}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{schema_injection_visualisation.pdf}}%
+    \put(0.71040523,0.02518391){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$60$ mm\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{schema_injection_visualisation.pdf}}%
+    \put(0.87962992,0.13857057){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\scriptstyle{\theta}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{schema_injection_visualisation.pdf}}%
+    \put(0.85889225,0.09619316){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{e_{\theta}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{schema_injection_visualisation.pdf}}%
+    \put(0.49521382,0.0583105){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{e_{z}}$\end{tabular}}}}%
+    \put(0.4127917,0.00651734){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{e_{r}}$\end{tabular}}}}%
+    \put(0.427909,0.0498974){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{e_{\theta}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{schema_injection_visualisation.pdf}}%
+    \put(0.8969395,0.10576566){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vv{e_{r}}$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
